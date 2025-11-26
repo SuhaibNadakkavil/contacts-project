@@ -7,7 +7,6 @@ A small RESTful API for managing user-specific contacts. Built with Node.js, Exp
 - Password hashing with bcrypt
 - CRUD operations for contacts: create, read (list & single), update, delete
 - Each contact is linked to a user; users can only access their own contacts
-- Ready for hosting (Render) and local development
 
 ## Tech Stack
 - Node.js
